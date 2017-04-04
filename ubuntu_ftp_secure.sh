@@ -1,5 +1,5 @@
 #!/bin/bash
-# Name: ftp_secure.sh
+# Name: ubuntu_ftp_secure.sh
 # Author: Anthony
 # Website: Anthonys.io
 # Twitter: Twitter.com/tech
