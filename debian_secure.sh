@@ -1,5 +1,5 @@
 #!/bin/bash
-# Name: web_secure.sh
+# Name: debian_secure.sh
 # Author: Anthony
 # Website: Anthonys.io
 # Twitter: Twitter.com/tech
