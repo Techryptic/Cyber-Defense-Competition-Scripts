@@ -1,4 +1,4 @@
-# [Cyber-Defense-Competition-Scripts](http://anthonys.io/cyber-defense-competition-writeup-as-blue-team-leader/): Having fun playing as Blue Team.
+# [Cyber-Defense-Competition-Scripts](): Having fun playing as Blue Team.
 
 Created by [@Tech](https://twitter.com/Tech)
 
